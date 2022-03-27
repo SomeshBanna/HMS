@@ -1,0 +1,19 @@
+.card {
+  border: none;
+  width: 500px;
+  padding: 40px;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: rgb(112, 41, 68);
+  background: linear-gradient(90deg,rgb(112, 107, 41)0%,rgb(41, 89, 112)100%);
+}
+
+  .card h1 {
+    color: white;
+  }
+
+label {
+  color: white;
+}
